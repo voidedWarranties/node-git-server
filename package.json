@@ -28,9 +28,6 @@
     "coverage": "tap test/*.js --coverage --coverage-report=lcov",
     "generate-docs": "tryitout && jsdoc -c jsdoc.json"
   },
-  "dependencies": {
-    "through": "^2.3.8"
-  },
   "devDependencies": {
     "async": "^2.6.0",
     "docdash": "^0.4.0",
