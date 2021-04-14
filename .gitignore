@@ -3,7 +3,6 @@ node_modules
 npm-debug.log
 coverage
 .nyc_output
-example/test
-example/tmp
 package-lock.json
 .vs/
+docs/
