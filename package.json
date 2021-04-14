@@ -6,7 +6,11 @@
   "contributors": [
     {
       "name": "echopoint",
-      "email": "echopoint <echopoint@tutanota.com>"
+      "email": "echopoint@tutanota.com"
+    },
+    {
+      "name": "substack",
+      "email": "substack@gmail.com"
     }
   ],
   "license": "MIT",
